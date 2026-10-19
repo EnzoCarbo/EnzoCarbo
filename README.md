@@ -8,7 +8,7 @@ I build business apps by day (C# / ASP.NET APIs, Angular front-ends, SQL reporti
 **Backend:** C#, ASP.NET Core, Node.js, SQL Server
 **Frontend:** Angular, React, Vite, TypeScript
 **Also:** VB.NET (legacy), Lua, DevExpress reporting
-**Exploring:** mobile development (MAUI), infrastructure, AI
+**Exploring:** mobile development (MAUI), infrastructure (Kube), AI
 **Want to learn** some RUST
 
 ### Curently working on 
